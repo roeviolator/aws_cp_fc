@@ -9,9 +9,6 @@ loadDB();
 
 function loadDB(){
     // link json here
-    // gitlab link: https://gitlab.presidio.com/liiams/aws_cp_flashcards/-/blob/master/activity.json
-    // brody link: https://raw.githubusercontent.com/bwilliams406/quiz/main/activity.json
-    // my github: https://github.com/roeviolator/aws_cp_fc/blob/main/activity.json
     
  $.getJSON("https://raw.githubusercontent.com/roeviolator/aws_cp_fc/main/activity.json", function(data) {
   for(i=0;i<data.questionlist.length;i++){
