@@ -114,7 +114,7 @@
         },
         {
             "cardfront": "Which is a recommended pattern for designing a highly available architecture on AWS? <br>A. Ensure that components have low-latency network connectivity.<br>B. Run enough Amazon EC2 instances to operate at peak loaD. C. Ensure that the application is designed to accommodate failure of any single component.<br>D. Use a monolithic application that handles all operations.",
-            "cardback": ""
+            "cardback": "C. Ensure that the application is designed to accommodate failure of any single component."
         },
         {
             "cardfront": "According to best practices, how should an application be designed to run in the AWS Cloud? <br>A. Use tightly coupled components.<br>B. Use loosely coupled components.<br>C. Use infrequently coupled components.<br>D. Use frequently coupled components.",
