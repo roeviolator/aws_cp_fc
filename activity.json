@@ -1,0 +1,265 @@
+{"questionlist":[
+    {        
+        "cardfront": "Under the shared responsibility model, which of the following is the customer responsible for?",
+        "cardback": "Ensuring data is encrypted at rest"
+    },
+    {
+        "cardfront": "Which AWS feature allows companies to track and categorize spending on a detailed level?",
+        "cardback": "AWS Budgets"},
+    {
+        "cardfront": "Which service stores objects, provides real-time access to those objects, and offers versioning and lifecyclce capabilities?",
+        "cardback": "AWS S3"
+    },
+    {
+        "cardfront": "Which AWS team assists customers with accelerating cloud adoption through paid engagements?",
+        "cardback": "AWS Professional Services"
+    },
+    {
+        "cardfront": "A customer would like to design and build a new AWS workload but doesn't have in-house expertise.  What program can the customer take advantage of?",
+        "cardback": "AWS Partner Network Consulting Partners"
+    },
+    {
+        "cardfront": "Distributing workloads across multiple Availability Zones supports which architecture design principle?",
+        "cardback": "Design for failure"
+    },
+    {
+        "cardfront": "Which AWS services can host a MSSQL database?",
+        "cardback": "EC2, RDS"
+    },
+    {
+        "cardfront": "Which of the following inspects environments to find cost saving and performance enhancing opportunities?",
+        "cardback": "AWS Trusted Advisor"
+    },
+    {
+        "cardfront": "Which of the following pricing models allow customers to use existing server-bound software licenses?",
+        "cardback": "Dedicated Hosts"
+    },
+    {
+        "cardfront": "Which characteristics make AWS cost effective for a workload with dynamic user demand?",
+        "cardback": "Elasticity, pay-as-you-go pricing"
+    },
+    {
+        "cardfront": "Which service enables risk auditing by monitoring and logging account activity in the console and SDK's?",
+        "cardback": "CloudTrail"
+    },
+    {
+        "cardfront": "Which of the following are characteristics of S3?",
+        "cardback": "object store, durable storage system"
+    },
+    {
+        "cardfront": "Which services can be used across hybrid cloud architectures?",
+        "cardback": "Route 53, Virtual Private Gateway"
+    },
+    {
+        "cardfront": "What costs are included when comparing AWS TCO with on-premise?",
+        "cardback": "Data center security"
+    },
+    {
+        "cardfront": "A company is considering AWS for a self-hosted db that requires nightly shutdown.  Which service should they use?",
+        "cardback": "EC2 with Elastic block store (EBS)"
+    },
+    {
+        "cardfront": "What is the correct relationship between regions, Availability Zones and edge locations?",
+        "cardback": "Regions contain availability Zones"
+    },
+    {
+        "cardfront": "Which AWS tool assists with estimating costs?",
+        "cardback": "Cost allocation tags, Simple Monthly Calculator, TCO Calc"
+    },
+    {
+        "cardfront": "Which of the following are advantages of consolidated billing?",
+        "cardback": "Receive on bill for multiple accounts, potential volume disconts associated"
+    },
+    {
+        "cardfront": "Which of the following Reserved instance pricing models provides the highest average savings compared with on-demand?",
+        "cardback": "Three-year, all upfront, standard RI pricing"
+    },
+    {
+        "cardfront": "Compared with costs in traditional and virtualized datacenters, aws has:",
+        "cardback": "lower variable and upfront costs"
+    },
+    {
+        "cardfront": "A characteristic of edge locations is that they:",
+        "cardback": "cache frequently chaging data without reaching the origin server"
+    },
+    {
+        "cardfront": "Which feature can limit S3 bucket access to specific users?",
+        "cardback": "Identity and Access Management Policies"
+    },
+    {
+        "cardfront": "Which of the following security-related actions are available at no cost?",
+        "cardback": "Accessing forums, blogs and whitepapers"
+    },
+    {
+        "cardfront": "Which of the RI pricing models can change the attributes of the RI as long as the exchange results in the creation of RIs of equal or greater value?",
+        "cardback": "Convertible RI's"
+    },
+    {
+        "cardfront": "Which AWS feature will reduce the customers tco?",
+        "cardback": "Elastic computing"
+    },
+    {
+        "cardfront": "Which service will automatically scale with an expected increase in web traffic?",
+        "cardback": "Elastic Load Balancing"
+    },
+    {
+        "cardfront": "Where are AWS compliance documance, such as an SOC 1 report, located?",
+        "cardback": "AWS Artifact"
+    },
+    {
+        "cardfront": "Under the shared responsibility model, which are the customers responsibility?",
+        "cardback": "Encrypting client-side data, configuring network access control lists"
+    },
+    {
+        "cardfront": "Which is a recommended pattern for designing a highly available architecture on AWS?",
+        "cardback": "Ensure that the application is designed to accomodate failure of any single component"
+    },
+    {
+        "cardfront": "According to best practices, how should an application be designed to run in AWS Cloud?",
+        "cardback": "Use lossely coupled components"
+    },
+    {
+        "cardfront": "AWS supports which of the following methods to add security to IAM users?",
+        "cardback": "Using multi-factor authentication (MFA); enforcing password strength and expiration"
+    },
+    {
+        "cardfront": "Which AWS services should be used for read/write of constantly changing data?",
+        "cardback": "RDS, EFS"
+    },
+    {
+        "cardfront": "What is one of the advantages of AWS RDS?",
+        "cardback": "It simplifies relational database admin tasks"
+    },
+    {
+        "cardfront": "A customer needs to run a MySQL database that easily scales.  Which service should they use?",
+        "cardback": "Amazon Aurora"
+    },
+    {
+        "cardfront": "Which of the following components of the AWS global infrastructure consists of one or more discrete datacenters interconnected through low-latency links?",
+        "cardback": "Availability Zone"
+    },
+    {
+        "cardfront": "Which of the following is a shared control between the customer and AWS?",
+        "cardback": "Awareness and training"
+    },
+    {
+        "cardfront": "How many availability zones should compute resources be provisioned across to achieve HA?",
+        "cardback": "A minimum of two"
+    },
+    {
+        "cardfront": "One of the advantages to moving infrastructure from an on-premises data center to the AWS cloud is:",
+        "cardback": "it allows the business to focus on business activities"
+    },
+    {
+        "cardfront": "What is the lowest cost, durable storage option for retaining DB backups for immediate retrieval?",
+        "cardback": "Amazon S3"
+    },
+    {
+        "cardfront": "Which IAM feature allows developers to access AWS services through the AWS CLI?",
+        "cardback": "Access keys"
+    },
+    {
+        "cardfront": "Which of the following is a fast and reliable NoSQL db service?",
+        "cardback": "Amazon DynamoDB"
+    },
+    {
+        "cardfront": "What is an example of agility in the AWS Cloud?",
+        "cardback": "Decreased acquisition time for new compute resources"
+    },
+    {
+        "cardfront": "Which service should a customer use to consolidate and centrally manage multiple AWS accounts?",
+        "cardback": "AWS Organizations"
+    },
+    {
+        "cardfront": "What approach to transcoding a large number of individual video files adheres to AWS architecture principles?",
+        "cardback": "Using many instances in parallel"
+    },
+    {
+        "cardfront": "For which auditing process does AWS have sole responsibility?",
+        "cardback": "Physical security"
+    },
+    {
+        "cardfront": "Which feature of the Cloud will support an international company's requirement for low-latency to all of its customers?",
+        "cardback": "Global Reach"
+    },
+    {
+        "cardfront": "A customers responsibility under the AWS shared responsibility model is:",
+        "cardback": "Patching EC2 instances"
+    },
+    {
+        "cardfront": "A customer is using multiple AWS accounts with separate billing.  How can the customer take advantage of volume discounts with minimal impact to the AWS resources?",
+        "cardback": "Use consolidated billing feature in AWS Organizations"
+    },
+    {
+        "cardfront": "Which of the following are features of Amazon CloudWatch Logs?",
+        "cardback": "Real-time monitoring, adjustable retention"
+    },
+    {
+        "cardfront": "Name the AWS DNS service",
+        "cardback": "Route 53"
+    },
+    {
+        "cardfront": "A customer needs to choose AWS Regions.  Which factors influence their decision?",
+        "cardback": "Latency, data sovereignty compliance"
+    },
+    {
+        "cardfront": "Which storage service can be used as a low-cost option for hosting static websites?",
+        "cardback": "S3"
+    },
+    {
+        "cardfront": "Which Amazon EC2 instance pricing model can provide discounts of up to 90%?",
+        "cardback": "Spot instances"
+    },
+    {
+        "cardfront": "What is the AWS customer responsible for according to the AWS shared responsibility model?",
+        "cardback": "Data encryption"
+    },
+    {
+        "cardfront": "Which of the following AWS Cloud services can be used to run a customer-managed relational database?",
+        "cardback": "EC2"
+    },
+    {
+        "cardfront": "Scalable data warehouse solution",
+        "cardback": "Redshift"
+    },
+    {
+        "cardfront": "Statement that best describes Elastic Load Balancing?",
+        "cardback": "It distributes incoming application traffic across one or more Amazon EC2 instances."
+    },
+    {
+        "cardfront": "Two valid ways for a customer to interact with AWS services?",
+        "cardback": "AWS CLI, SDK"
+    },
+    {
+        "cardfront": "The AWS Cloud’s multiple Regions are an example of:",
+        "cardback": "global infrastructure."
+    },
+    {
+        "cardfront": "Which two AWS services can be used to serve large amounts of online video content with the lowest possible latency?",
+        "cardback": "Amazon S3, Amazon CloudFront"
+    },
+    {
+        "cardfront": "Which term describes this model: Web servers running on Amazon EC2 access a legacy application running in a corporate data center.",
+        "cardback": "Hybrid architecture"
+    },
+    {
+        "cardfront": "What is the benefit of using AWS managed services, such as Amazon ElastiCache and Amazon Relational Database Service (Amazon RDS)?",
+        "cardback": "They simplify patching and updating underlying OSs."
+    },
+    {
+        "cardfront": "Which service provides a virtually unlimited amount of online highly durable object storage?",
+        "cardback": "Amazon S3"
+    },
+    {
+        "cardfront": "Which of the following Identity and Access Management (IAM) entities is associated with an access key ID and secret access key when using AWS Command Line Interface (AWS CLI)?",
+        "cardback": "IAM User"
+    },
+    {
+        "cardfront": "Which of the following security-related services does AWS offer? (Choose two.)",
+        "cardback": "Trusted Advisor security checks, data encryption"
+    },
+    {
+        "cardfront": "Which AWS managed service is used to host databases?",
+        "cardback": "RDS"
+    }
+]}
