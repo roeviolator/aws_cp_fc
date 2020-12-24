@@ -1,6 +1,6 @@
 {"questionlist":[
     {        
-        "cardfront": "Under the shared responsibility model, which of the following is the customer responsible for?",
+        "cardfront": "Under the shared responsibility model, which of the following is the customer responsible for? <br>A.Ensuring that disk drives are wiped after use.<br>B. Ensuring that firmware is updated on hardware devices.<br>C. Ensuring that data is encrypted at rest.<br>D.Ensuring that network cables are category six or higher.",
         "cardback": "Ensuring data is encrypted at rest"
     },
     {
