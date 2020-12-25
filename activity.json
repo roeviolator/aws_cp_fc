@@ -22,7 +22,7 @@
         },
         {
             "cardfront": "Distributing workloads across multiple Availability Zones supports which cloud architecture design principle? <br>A. Implement automation.<br>B. Design for agility.<br>C. Design for failure. <br>D. Implement elasticity.",
-            "cardback": " C. Design for failurE. D. Implement elasticity."
+            "cardback": " C. Design for failure. D. Implement elasticity."
         },
         {
             "cardfront": "Which AWS services can host a Microsoft SQL Server database? (Choose two.) <br>A. Amazon EC2<br>B. Amazon Relational Database Service (Amazon RDS)<br>C. Amazon Aurora<br>D. Amazon Redshift<br>E. Amazon S3",
