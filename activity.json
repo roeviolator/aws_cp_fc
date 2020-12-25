@@ -1,7 +1,7 @@
 {
     "questionlist": [
         {
-            "cardfront": "Under the shared responsibility model, which of the following is the customer responsible for? <br>A. Ensuring that disk drives are wiped after usE. <br>B. Ensuring that firmware is updated on hardware devices.<br>C. Ensuring that data is encrypted at rest.<br>D. Ensuring that network cables are category six or higher.",
+            "cardfront": "Under the shared responsibility model, which of the following is the customer responsible for? <br>A. Ensuring that disk drives are wiped after use. <br>B. Ensuring that firmware is updated on hardware devices.<br>C. Ensuring that data is encrypted at rest.<br>D. Ensuring that network cables are category six or higher.",
             "cardback": " C. Ensuring that data is encrypted at rest."
         },
         {
@@ -21,7 +21,7 @@
             "cardback": " C. AWS Partner Network Consulting Partners"
         },
         {
-            "cardfront": "Distributing workloads across multiple Availability Zones supports which cloud architecture design principle? <br>A. Implement automation.<br>B. Design for agility.<br>C. Design for failurE. D. Implement elasticity.",
+            "cardfront": "Distributing workloads across multiple Availability Zones supports which cloud architecture design principle? <br>A. Implement automation.<br>B. Design for agility.<br>C. Design for failure. <br>D. Implement elasticity.",
             "cardback": " C. Design for failurE. D. Implement elasticity."
         },
         {
