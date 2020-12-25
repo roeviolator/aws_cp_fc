@@ -133,11 +133,11 @@
             "cardback": " A. It simplifies relational database administration tasks."
         },
         {
-            "cardfront": "A customer needs to run a MySQL database that easily scales.Which AWS service should they use? <br>A. Amazon Aurora<br>B. Amazon Redshift<br>C. Amazon DynamoDB<br>D. Amazon ElastiCache",
+            "cardfront": "A customer needs to run a MySQL database that easily scales. Which AWS service should they use? <br>A. Amazon Aurora<br>B. Amazon Redshift<br>C. Amazon DynamoDB<br>D. Amazon ElastiCache",
             "cardback": " A. Amazon Aurora"
         },
         {
-            "cardfront": "Which of the following components of the AWS Global Infrastructure consists of one or morediscrete data centers interconnected through low latency links? <br>A. Availability Zone<br>B. Edge location<br>C. Region<br>D. Private networking",
+            "cardfront": "Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links? <br>A. Availability Zone<br>B. Edge location<br>C. Region<br>D. Private networking",
             "cardback": " A. Availability Zone"
         },
         {
