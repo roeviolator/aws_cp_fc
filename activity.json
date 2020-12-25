@@ -113,7 +113,7 @@
             "cardback": " B. Encrypting data on the client-side D. Configuring Network Access Control Lists (ACL)"
         },
         {
-            "cardfront": "Which is a recommended pattern for designing a highly available architecture on AWS? <br>A. Ensure that components have low-latency network connectivity.<br>B. Run enough Amazon EC2 instances to operate at peak loaD. C. Ensure that the application is designed to accommodate failure of any single component.<br>D. Use a monolithic application that handles all operations.",
+            "cardfront": "Which is a recommended pattern for designing a highly available architecture on AWS? <br>A. Ensure that components have low-latency network connectivity.<br>B. Run enough Amazon EC2 instances to operate at peak load. <br>C. Ensure that the application is designed to accommodate failure of any single component.<br>D. Use a monolithic application that handles all operations.",
             "cardback": "C. Ensure that the application is designed to accommodate failure of any single component."
         },
         {
