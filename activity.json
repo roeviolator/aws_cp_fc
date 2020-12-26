@@ -85,7 +85,7 @@
             "cardback": " C. cache frequently changing data without reaching the origin server."
         },
         {
-            "cardfront": "Which of the following can limit Amazon Storage Service (Amazon S3) bucket access to specificusers? <br>A. A public and private key-pair<br>B. Amazon Inspector<br>C. AWS Identity and Access Management (IAM) policies<br>D. Security Groups",
+            "cardfront": "Which of the following can limit Amazon Storage Service (Amazon S3) bucket access to specific users? <br>A. A public and private key-pair<br>B. Amazon Inspector<br>C. AWS Identity and Access Management (IAM) policies<br>D. Security Groups",
             "cardback": " C. AWS Identity and Access Management (IAM) policies"
         },
         {
