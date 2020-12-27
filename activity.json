@@ -285,7 +285,7 @@
             "cardback": " D. Amazon Direct Connect"
         },
         {
-            "cardfront": "A company wants to reduce the physical compute footprint that developers use to run codE. Which service would meet that need by enabling serverless architectures? <br>A. Amazon Elastic Compute Cloud (Amazon EC2)<br>B. AWS Lambda<br>C. Amazon DynamoDB<br>D. AWS CodeCommit",
+            "cardfront": "A company wants to reduce the physical compute footprint that developers use to run code. Which service would meet that need by enabling serverless architectures? <br>A. Amazon Elastic Compute Cloud (Amazon EC2)<br>B. AWS Lambda<br>C. Amazon DynamoDB<br>D. AWS CodeCommit",
             "cardback": " B. AWS Lambda"
         },
         {
@@ -1037,7 +1037,7 @@
             "cardback": " D. Amazon Athena"
         },
         {
-            "cardfront": "AWS CloudFormation is designed to help the user: <br>A. model and provision resources.<br>B. update application codE. <br>C. set up data lakes.<br>D. create reports for billing.",
+            "cardfront": "AWS CloudFormation is designed to help the user: <br>A. model and provision resources.<br>B. update application code. <br>C. set up data lakes.<br>D. create reports for billing.",
             "cardback": " A. model and provision resources."
         },
         {
