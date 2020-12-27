@@ -189,7 +189,7 @@
             "cardback": " C. Patching Amazon EC2 instances"
         },
         {
-            "cardfront": "A customer is using multiple AWS accounts with separate billing.How can the customer take advantage of volume discounts with minimal impact to the AWSresources? <br>A. Create one global AWS acount and move all AWS resources to tha account.<br>B. Sign up for three years of Reserved Instance pricing up front.<br>C. Use the consolidated billing feature from AWS Organizations.<br>D. Sign up for the AWS Enterprise support plan to get volume discounts.",
+            "cardfront": "A customer is using multiple AWS accounts with separate billing.How can the customer take advantage of volume discounts with minimal impact to the AWSresources? <br>A. Create one global AWS acount and move all AWS resources to that account.<br>B. Sign up for three years of Reserved Instance pricing up front.<br>C. Use the consolidated billing feature from AWS Organizations.<br>D. Sign up for the AWS Enterprise support plan to get volume discounts.",
             "cardback": " C. Use the consolidated billing feature from AWS Organizations."
         },
         {
