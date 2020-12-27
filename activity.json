@@ -605,7 +605,7 @@
             "cardback": " B. AWS Organizations"
         },
         {
-            "cardfront": "A company is designing an application hosted in a single AWS Region serving end-users spreadacross the world. The company wants to provide the end-users low latency access to the application data. Which of the following services will help fulfill this requirement?<br>A. Amazon CloudFront<br>B. AWS Direct Connect<br>C. Amazon Route 53 global DNS<br>D. Amazon Simple Storage Service (Amazon S3) transfer acceleration",
+            "cardfront": "A company is designing an application hosted in a single AWS Region serving end-users spread across the world. The company wants to provide the end-users low latency access to the application data. Which of the following services will help fulfill this requirement?<br>A. Amazon CloudFront<br>B. AWS Direct Connect<br>C. Amazon Route 53 global DNS<br>D. Amazon Simple Storage Service (Amazon S3) transfer acceleration",
             "cardback": " A. Amazon CloudFront"
         },
         {
