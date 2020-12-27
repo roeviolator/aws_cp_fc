@@ -1017,7 +1017,7 @@
             "cardback": " B. Direct the user to the AWS Simple Monthly Calculator for an estimate. "
         },
         {
-            "cardfront": "A company wants to migrate its applications to a VPC on AWS. These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goal? (Choose two.) <br>A. Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated. <br>B. Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC.<br>C. Use Amazon Athena to query data from the on-premises database servers.<br>D. Connect the company’s on-premises data center to AWS using AWS Direct Connect.<br>E. Leverage Amazon CloudFront to restrict access to static web content provided through the company’s on-premises web servers.",
+            "cardfront": "A company wants to migrate its applications to a VPC and it will need to access on-premises resources. What combination will enable the company to accomplish this goal? (Choose two.) <br>A. Use the AWS Service Catalog to identify a list blah <br>B. Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC.<br>C. Use Amazon Athena to query data blah <br>D. Connect the company’s on-premises data center to AWS using AWS Direct Connect.<br>E. Leverage Amazon CloudFront to restrict access to static web content provided through the company’s on-premises web servers.",
             "cardback": " B. Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC. D. Connect the company’s on-premises data center to AWS using AWS Direct Connect."
         },
         {
