@@ -301,7 +301,7 @@
             "cardback": " C. Updating Amazon EC2 host firmware"
         },
         {
-            "cardfront": "Where should a company go to search software listings from independent software vendors tofind, test, buy and deploy software that runs on AWS? <br>A. AWS Marketplace<br>B. Amazon Lumberyard<br>C. AWS Artifact<br>D. Amazon CloudSearch",
+            "cardfront": "Where should a company go to search software listings from independent software vendors to find, test, buy and deploy software that runs on AWS? <br>A. AWS Marketplace<br>B. Amazon Lumberyard<br>C. AWS Artifact<br>D. Amazon CloudSearch",
             "cardback": " A. AWS Marketplace"
         },
         {
@@ -349,7 +349,7 @@
             "cardback": " A. AWS Artifact"
         },
         {
-            "cardfront": "Which AWS service provides a customized view of the health of specific AWS services that powera customer’s workloads running on AWS? <br>A. AWS Service Health Dashboard<br>B. AWS X-Ray<br>C. AWS Personal Health Dashboard<br>D. Amazon CloudWatch",
+            "cardfront": "Which AWS service provides a customized view of the health of specific AWS services that power a customer’s workloads running on AWS? <br>A. AWS Service Health Dashboard<br>B. AWS X-Ray<br>C. AWS Personal Health Dashboard<br>D. Amazon CloudWatch",
             "cardback": " C. AWS Personal Health Dashboard"
         },
         {
@@ -1405,7 +1405,7 @@
             "cardback": " A. AWS Snowball D. AWS Database Migration Service (AWS DMS)"
         },
         {
-            "cardfront": "A batch workload takes 5 hours to finish on an Amazon EC2 instance. The amount of data to beprocessed doubles monthly and the processing time is proportional. What is the best cloud architecture to address this consistently growing demand? <br>A. Run the application on a bigger EC2 instance sizE. <br>B. Switch to an EC2 instance family that better matches batch requirements.<br>C. Distribute the application across multiple EC2 instances and run the workload in parallel.<br>D. Run the application on a bare metal EC2 instancE. ",
+            "cardfront": "A batch workload takes 5 hours to finish on an Amazon EC2 instance. The amount of data to be processed doubles monthly and the processing time is proportional. What is the best cloud architecture to address this consistently growing demand? <br>A. Run the application on a bigger EC2 instance size. <br>B. Switch to an EC2 instance family that better matches batch requirements.<br>C. Distribute the application across multiple EC2 instances and run the workload in parallel.<br>D. Run the application on a bare metal EC2 instance. ",
             "cardback": " C. Distribute the application across multiple EC2 instances and run the workload in parallel."
         },
         {
