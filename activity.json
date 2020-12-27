@@ -217,7 +217,7 @@
             "cardback": " B. Data encryption"
         },
         {
-            "cardfront": "Which of the following AWS Cloud services can be used to run a customer-managed relationaldatabase? <br>A. Amazon EC2<br>B. Amazon Route 53<br>C. Amazon ElastiCache<br>D. Amazon DynamoDB",
+            "cardfront": "Which of the following AWS Cloud services can be used to run a customer-managed relational database? <br>A. Amazon EC2<br>B. Amazon Route 53<br>C. Amazon ElastiCache<br>D. Amazon DynamoDB",
             "cardback": " A. Amazon EC2"
         },
         {
