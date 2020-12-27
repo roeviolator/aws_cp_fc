@@ -1733,7 +1733,7 @@
             "cardback": " B. To allow communication between the VPC and the Internet"
         },
         {
-            "cardfront": "A company must ensure that its endpoint for a database instance remains the same after a single Availability Zone service interruption. The application needs to resume database operationswithout the need for manual administrative intervention. How can these requirements be met? <br>A. Use multiple Amazon Route 53 routes to the standby database instance endpoint hosted on AWS Storage Gateway.<br>B. Configure Amazon RDS Multi-Availability Zone deployments with automatic failover to the standby.<br>C. Add multiple Application Load Balancers and deploy the database instance with AWS Elastic Beanstalk.<br>D. Deploy a single Network Load Balancer to distribute incoming traffic across multiple Amazon CloudFront origins.",
+            "cardfront": "A company must ensure that its database endpoint remains the same after a single Zone service interruption. The application needs to resume automatically. How can these requirements be met? <br>A. Use multiple Amazon Route 53 routes blah blah.<br>B. Configure Amazon RDS Multi-Availability Zone deployments with automatic failover to the standby.<br>C. Add multiple Application Load Balancers blah blah<br>D. Deploy a single Network Load Balancer blah blah",
             "cardback": " B. Configure Amazon RDS Multi-Availability Zone deployments with automatic failover to the standby."
         },
         {
