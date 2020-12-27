@@ -225,7 +225,7 @@
             "cardback": " D. Amazon Redshift"
         },
         {
-            "cardfront": "Which statement best describes Elastic Load Balancing? <br>A. It translates a domain name into an IP address using DNS.<br>B. It distributes incoming application traffic across one or more Amazon EC2 instances.<br>C. It collects metrics on connected Amazon EC2 instances.<br>D. It automatically adjusts the number of Amazon EC2 instances to support incoming traffiC. ",
+            "cardfront": "Which statement best describes Elastic Load Balancing? <br>A. It translates a domain name into an IP address using DNS.<br>B. It distributes incoming application traffic across one or more Amazon EC2 instances.<br>C. It collects metrics on connected Amazon EC2 instances.<br>D. It automatically adjusts the number of Amazon EC2 instances to support incoming traffic. ",
             "cardback": " B. It distributes incoming application traffic across one or more Amazon EC2 instances."
         },
         {
@@ -569,8 +569,8 @@
             "cardback": " B. Managing the VPC network access control lists. C. Encrypting data in transit and at rest."
         },
         {
-            "cardfront": "Which scenarios represent the concept of elasticity on AWS? (Choose two.) <br>A. Scaling the number of Amazon EC2 instances based on traffiC. <br>B. Resizing Amazon RDS instances as business needs change. <br>C. Automatically directing traffic to less-utilized Amazon EC2 instances.<br>D. Using AWS compliance documents to accelerate the compliance process.<br>E. Having the ability to create and govern environments using code. ",
-            "cardback": " A. Scaling the number of Amazon EC2 instances based on traffiC.  B. Resizing Amazon RDS instances as business needs change. "
+            "cardfront": "Which scenarios represent the concept of elasticity on AWS? (Choose two.) <br>A. Scaling the number of Amazon EC2 instances based on traffic. <br>B. Resizing Amazon RDS instances as business needs change. <br>C. Automatically directing traffic to less-utilized Amazon EC2 instances.<br>D. Using AWS compliance documents to accelerate the compliance process.<br>E. Having the ability to create and govern environments using code. ",
+            "cardback": " A. Scaling the number of Amazon EC2 instances based on traffic.  B. Resizing Amazon RDS instances as business needs change. "
         },
         {
             "cardfront": "When is it beneficial for a company to use a Spot Instance? <br>A. When there is flexibility in when an application needs to run.<br>B. When there are mission-critical workloads.<br>C. When dedicated capacity is needed. <br>D. When an instance should not be stopped.",
