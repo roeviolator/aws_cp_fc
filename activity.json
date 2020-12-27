@@ -625,7 +625,7 @@
             "cardback": " C. least privilege access."
         },
         {
-            "cardfront": "Which methods can be used to identify AWS costs by departments? (Choose two.) <br>A. Enable multi-factor authentication for the AWS account root user.<br>B. Create separate accounts for each department.<br>C. Use Reserved Instances whenever possible. D. Use tags to associate each instance with a particular department.<br>E. Pay bills using purchase orders.",
+            "cardfront": "Which methods can be used to identify AWS costs by departments? (Choose two.) <br>A. Enable multi-factor authentication for the AWS account root user.<br>B. Create separate accounts for each department.<br>C. Use Reserved Instances whenever possible. <br>D. Use tags to associate each instance with a particular department.<br>E. Pay bills using purchase orders.",
             "cardback": " B. Create separate accounts for each department. D. Use tags to associate each instance with a particular department."
         },
         {
