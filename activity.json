@@ -565,7 +565,7 @@
             "cardback": " C. Storage hardware D. Physical servers"
         },
         {
-            "cardfront": "Under the shared responsibility model, which of the following tasks are the responsibility of the customer? (Choose two.) <br>A. Maintaining the underlying Amazon EC2 hardwarE. <br>B. Managing the VPC network access control lists.<br>C. Encrypting data in transit and at rest.<br>D. Replacing failed hard disk drives.<br>E. Deploying hardware in different Availability Zones.",
+            "cardfront": "Under the shared responsibility model, which of the following tasks are the responsibility of the customer? (Choose two.) <br>A. Maintaining the underlying Amazon EC2 hardware. <br>B. Managing the VPC network access control lists.<br>C. Encrypting data in transit and at rest.<br>D. Replacing failed hard disk drives.<br>E. Deploying hardware in different Availability Zones.",
             "cardback": " B. Managing the VPC network access control lists. C. Encrypting data in transit and at rest."
         },
         {
