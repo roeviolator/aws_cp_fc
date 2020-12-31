@@ -709,7 +709,7 @@
             "cardback": " B. Amazon EC2"
         },
         {
-            "cardfront": "Which of the following is an important architectural principle when designing cloud applications? <br>A. Store data and backups in the same region.<br>B. Design tightly coupled system components.<br>C. Avoid multi-threading.<br>D. Design for failurE. ",
+            "cardfront": "Which of the following is an important architectural principle when designing cloud applications? <br>A. Store data and backups in the same region.<br>B. Design tightly coupled system components.<br>C. Avoid multi-threading.<br>D. Design for failure. ",
             "cardback": " D. Design for failure. "
         },
         {
