@@ -17,7 +17,7 @@
             "cardback": " C. AWS Professional Services"
         },
         {
-            "cardfront": "A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-housE. Which of the following AWS programs can a customer take advantage of to achieve that outcome? <br>A. AWS Partner Network Technology Partners<br>B. AWS Marketplace<br>C. AWS Partner Network Consulting Partners<br>D. AWS Service Catalog",
+            "cardfront": "A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-house. Which of the following AWS programs can a customer take advantage of to achieve that outcome? <br>A. AWS Partner Network Technology Partners<br>B. AWS Marketplace<br>C. AWS Partner Network Consulting Partners<br>D. AWS Service Catalog",
             "cardback": " C. AWS Partner Network Consulting Partners"
         },
         {
@@ -237,7 +237,7 @@
             "cardback": " B. global infrastructure.<br>C. elasticity."
         },
         {
-            "cardfront": "Which of the following AWS services can be used to serve large amounts of online video contentwith the lowest possible latency? (Choose two.) <br>A. AWS Storage Gateway<br>B. Amazon S3<br>C. Amazon Elastic File System (EFS)<br>D. Amazon Glacier<br>E. Amazom CloudFront",
+            "cardfront": "Which of the following AWS services can be used to serve large amounts of online video content with the lowest possible latency? (Choose two.) <br>A. AWS Storage Gateway<br>B. Amazon S3<br>C. Amazon Elastic File System (EFS)<br>D. Amazon Glacier<br>E. Amazom CloudFront",
             "cardback": " B. Amazon S3 E. Amazom CloudFront"
         },
         {
@@ -1069,7 +1069,7 @@
             "cardback": " D. Amazon S3 Glacier"
         },
         {
-            "cardfront": "What are the immediate benefits of using the AWS Cloud? (Choose two.) <br>A. Increased IT staff.<br>B. Capital expenses are replaced with variable expenses.<br>C. User control of infrastructure. <br>D. Increased agility.<br>E. AWS holds responsibility for security in the clouD. ",
+            "cardfront": "What are the immediate benefits of using the AWS Cloud? (Choose two.) <br>A. Increased IT staff.<br>B. Capital expenses are replaced with variable expenses.<br>C. User control of infrastructure. <br>D. Increased agility.<br>E. AWS holds responsibility for security in the cloud. ",
             "cardback": " B. Capital expenses are replaced with variable expenses. D. Increased agility."
         },
         {
