@@ -253,7 +253,7 @@
             "cardback": " D. Amazon S3"
         },
         {
-            "cardfront": "Which of the following Identity and Access Management (IAM) entities is associated with anaccess key ID and secret access key when using AWS Command Line Interface (AWS CLI)? <br>A. IAM group<br>B. IAM user<br>C. IAM role<br>D. IAM policy",
+            "cardfront": "Which of the following Identity and Access Management (IAM) entities is associated with an access key ID and secret access key when using AWS Command Line Interface (AWS CLI)? <br>A. IAM group<br>B. IAM user<br>C. IAM role<br>D. IAM policy",
             "cardback": " B. IAM user"
         },
         {
@@ -265,7 +265,7 @@
             "cardback": " D. Amazon RDS"
         },
         {
-            "cardfront": "Which AWS service provides a simple and scalable shared file storage solution for use with LinuxbasedAWS and on-premises servers? <br>A. Amazon S3<br>B. Amazon Glacier<br>C. Amazon EBS<br>D. Amazon EFS",
+            "cardfront": "Which AWS service provides a simple and scalable shared file storage solution for use with Linux based AWS and on-premises servers? <br>A. Amazon S3<br>B. Amazon Glacier<br>C. Amazon EBS<br>D. Amazon EFS",
             "cardback": " D. Amazon EFS"
         },
         {
@@ -1409,7 +1409,7 @@
             "cardback": " C. Distribute the application across multiple EC2 instances and run the workload in parallel."
         },
         {
-            "cardfront": "Each department within a company has its own independent AWS account and its own payment method. New company leadership wants to centralize departmental governance and consolidate payments. How can this be achieved using AWS services or features? <br>A. Forward monthly invoices for each account. Then create IAM roles to allow cross-account access.<br>B. Create a new AWS account. Then configure AWS Organizations and invite all existing accounts to join.<br>C. Configure AWS Organizations in each of the existing accounts. Then link all accounts together.<br>D. Use Cost Explorer to combine costs from all accounts. Then replicate IAM policies across accounts.",
+            "cardfront": "Each department within a company has its own independent AWS account and its own payment method. New company leadership wants to centralize departmental governance and consolidate payments. How can this be achieved using AWS services or features? <br>A. Forward monthly invoices for each account.<br>B. Create a new AWS account. Then configure AWS Organizations and invite all existing accounts to join.<br>C. Configure AWS Organizations in each of the existing accounts<br>D. Use Cost Explorer to combine costs from all accounts.",
             "cardback": " B. Create a new AWS account. Then configure AWS Organizations and invite all existing accounts to join."
         },
         {
