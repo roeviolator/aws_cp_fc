@@ -421,7 +421,7 @@
             "cardback": " B. Amazon EC2"
         },
         {
-            "cardfront": "Which of the following is an important architectural design principle when designing cloud applications? <br>A. Use multiple Availability Zones.<br>B. Use tightly coupled components.<br>C. Use open source softwarE. D. Provision extra capacity.",
+            "cardfront": "Which of the following is an important architectural design principle when designing cloud applications? <br>A. Use multiple Availability Zones.<br>B. Use tightly coupled components.<br>C. Use open source software.<br>D. Provision extra capacity.",
             "cardback": " A. Use multiple Availability Zones."
         },
         {
