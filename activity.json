@@ -234,7 +234,7 @@
         },
         {
             "cardfront": "The AWS Cloud’s multiple Regions are an example of: <br>A. agility.<br>B. global infrastructure. <br>C. elasticity.<br>D. pay-as-you-go pricing.",
-            "cardback": " B. global infrastructurE. C. elasticity."
+            "cardback": " B. global infrastructure.<br>C. elasticity."
         },
         {
             "cardfront": "Which of the following AWS services can be used to serve large amounts of online video contentwith the lowest possible latency? (Choose two.) <br>A. AWS Storage Gateway<br>B. Amazon S3<br>C. Amazon Elastic File System (EFS)<br>D. Amazon Glacier<br>E. Amazom CloudFront",
